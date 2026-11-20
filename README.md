@@ -1,3 +1,9 @@
+> **ASC Team fork.** This is a study copy of published ASC Student Supercomputer Challenge materials. It is not an official ASC Committee repository, and it is not a university endorsement.
+>
+> - Contest: ASC20-21 (finals 2021); upstream repository name is ASC2021-RACE
+> - Upstream: https://github.com/ASC-Competition/ASC2021-RACE
+> - Year and original name are recorded in [SOURCE.md](SOURCE.md).
+
 # BERT for RACE
 
 By: ASC commitee
